@@ -1,0 +1,79 @@
+.centrar-texto {
+  text-align: center;
+  font-size: 5vw;
+}
+
+.centrar-texto-All {
+  text-align: center;
+}
+
+.estilo-texto-edad {
+  text-align: center;
+  color: orange;
+}
+
+.texto-azul {
+  color: rgb(94, 94, 252);
+}
+
+.texto-naranja-claro {
+  color: orange;
+}
+
+.texto-rosa {
+  color: rgb(255, 70, 101);
+}
+
+.boton-derecho {
+  float: right;
+}
+
+.espaciado-resultado-genero {
+  position: relative;
+  top: 45px;
+}
+
+.img-edad {
+  position: relative;
+  height: 200px;
+  display: block;
+  margin: auto;
+  top: 20px;
+}
+
+.ion-col {
+  border: solid 1px #fff;
+  color: #fff;
+  text-align: center;
+}
+
+.foto-perfil {
+  border-radius: 15px;
+  height: 250px;
+}
+
+.div-justificado {
+  margin: 0px auto;
+  width: 320px;
+}
+
+.tachado {
+  text-decoration: underline;
+}
+
+.caja1 {
+  display: inline-block;
+  margin: 8px;
+}
+
+.navaja-img{
+    height: 200px;
+    display:block;
+    margin:auto;
+    padding: 30px;
+
+}
+
+.texto-justificado{
+    text-align: justify;
+}
